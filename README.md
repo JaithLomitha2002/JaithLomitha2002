@@ -52,7 +52,6 @@
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" />
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" />
-  <img src="[https://img.icons8.com/color/48/000000/agile.png](https://img.icons8.com/?size=100&id=nFtT32jVsVLC&format=png&color=000000)" alt="Agile" />
 </p>
 
 ---
