@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaith Lomitha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Undergraduate @ UCSC | Linux Enthusiast</h3>
 
-<p align="center">
+<!-- <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Undergraduate;Frontend+Developer;UI+UX+Designer;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Undergraduate;Linux;Always+learning+new+things">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaithlomitha2002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
@@ -63,6 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jaithlomitha2002&theme=algolia&show_icons=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaithlomitha2002&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaithlomitha2002&theme=algolia&layout=compact" alt="Top Languages" />
+  <!-- <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaithlomitha2002&theme=algolia&layout=compact" alt="Top Languages" /> -->
 </p>
