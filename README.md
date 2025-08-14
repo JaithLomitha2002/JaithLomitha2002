@@ -55,13 +55,13 @@
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaithlomitha2002&theme=algolia&show_icons=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaithlomitha2002&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <!-- <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaithlomitha2002&theme=algolia&layout=compact" alt="Top Languages" /> -->
-</p>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaithlomitha2002&theme=algolia&layout=compact" alt="Top Languages" />
+</p> -->
