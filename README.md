@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/c" height="48" alt="C" />
   <img src="https://cdn.simpleicons.org/cplusplus" height="48" alt="C++" />
-  <img src="https://cdn.simpleicons.org/csharp" height="48" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
   <img src="https://cdn.simpleicons.org/python" height="48" alt="Python" />
   <img src="https://cdn.simpleicons.org/javascript" height="48" alt="JavaScript" />
 </p>
