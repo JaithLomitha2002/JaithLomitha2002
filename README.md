@@ -45,11 +45,11 @@
 
 ### 🖥️ Programming Languages
 <p align="center">
-  <img src="https://cdn.simpleicons.org/c" height="48" alt="C" />
-  <img src="https://cdn.simpleicons.org/cplusplus" height="48" alt="C++" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-  <img src="https://cdn.simpleicons.org/python" height="48" alt="Python" />
-  <img src="https://cdn.simpleicons.org/javascript" height="48" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
 </p>
 
 ---
@@ -67,10 +67,10 @@
 ### ⚙️ DevOps, Cloud & Infrastructure
 <p align="center">
   <img src="https://cdn.simpleicons.org/gnubash" height="48" alt="Bash" />
-  <img src="https://cdn.simpleicons.org/linux" height="48" alt="Linux" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
   <img src="https://cdn.simpleicons.org/docker" height="48" alt="Docker" />
   <img src="https://cdn.simpleicons.org/circleci" height="48" alt="CircleCI" />
-  <img src="https://cdn.simpleicons.org/vercel" height="48" alt="Vercel" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" height="48" alt="Vercel Logo" />
   <img src="https://cdn.simpleicons.org/netdata" height="48" alt="Netdata" />
 </p>
 
@@ -87,7 +87,7 @@
 ### 🤝 Collaboration & Project Management
 <p align="center">
   <img src="https://cdn.simpleicons.org/jira" height="48" alt="Jira" />
-  <img src="https://cdn.simpleicons.org/github" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" height="48" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/git" height="48" alt="Git" />
 </p>  
 
