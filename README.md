@@ -43,51 +43,52 @@
 
 ## 🧑‍💻 What I'm Good At
 
-### 🖥️ Programming Languages  
+### 🖥️ Programming Languages
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
-</p>  
+  <img src="https://cdn.simpleicons.org/c" height="48" alt="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus" height="48" alt="C++" />
+  <img src="https://cdn.simpleicons.org/csharp" height="48" alt="C#" />
+  <img src="https://cdn.simpleicons.org/python" height="48" alt="Python" />
+  <img src="https://cdn.simpleicons.org/javascript" height="48" alt="JavaScript" />
+</p>
 
 ---
 
-### 🗄️ Databases  
+### 🗄️ Databases
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-cassandra-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="Cassandra" />
-</p>  
+  <img src="https://cdn.simpleicons.org/mysql" height="48" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/postgresql" height="48" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mongodb" height="48" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/apachecassandra" height="48" alt="Cassandra" />
+</p>
 
 ---
 
-### ⚙️ DevOps, Cloud & Infrastructure  
+### ⚙️ DevOps, Cloud & Infrastructure
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/circleci.png" alt="CircleCI" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-vercel-an-open-source-frontend-framework-for-developing-single-page-and-multiphase-javascript-apps-logo-color-tal-revivo.png" alt="Vercel" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-network-network-technology-flat-flat-juicy-fish.png" alt="Netdata" />
-</p>  
+  <img src="https://cdn.simpleicons.org/gnubash" height="48" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/linux" height="48" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/docker" height="48" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/circleci" height="48" alt="CircleCI" />
+  <img src="https://cdn.simpleicons.org/vercel" height="48" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/netdata" height="48" alt="Netdata" />
+</p>
 
 ---
 
-### 🧪 Testing & QA  
+### 🧪 Testing & QA
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium" />
-  <img src="https://img.icons8.com/external-bearicons-flat-bearicons/48/external-python-file-file-types-bearicons-flat-bearicons.png" alt="Pytest" />
-</p>  
+  <img src="https://cdn.simpleicons.org/selenium" height="48" alt="Selenium" />
+  <img src="https://cdn.simpleicons.org/pytest" height="48" alt="Pytest" />
+</p>
 
 ---
 
-### 🤝 Collaboration & Project Management  
+### 🤝 Collaboration & Project Management
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" />
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://cdn.simpleicons.org/jira" height="48" alt="Jira" />
+  <img src="https://cdn.simpleicons.org/github" height="48" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/git" height="48" alt="Git" />
 </p>  
 
 ---
