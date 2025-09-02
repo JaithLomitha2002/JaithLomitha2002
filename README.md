@@ -27,6 +27,7 @@
 - **djaithlomitha2002@gmail.com**
 
 ### ⚡ Fun fact
+- **I enjoy designing, optimizing, and querying databases 🤗**
 - **I hate JS 😅**
 
 ---
@@ -49,7 +50,6 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
 </p>
 
 ---
