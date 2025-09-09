@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaith Lomitha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">CS Undergraduate @ UCSC | Linux Enthusiast</h3>
+<h3 align="center">CS Undergraduate @ UCSC | Linux & Database Enthusiast | Critical Thinker </h3>
 
 <!-- <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -17,17 +17,18 @@
 
 ---
 
-### 🚗 Current Project
+### 💼 Current Project
 - 🔭 Working on [Auto Connect - Comprehensive vehicle lifecycle and History management system](https://github.com/Dark-Zeus/auto-connect.git)
-
+<!--
 ### 🌱 Currently Learning
-- **Ansible**
+- **Ansible** -->
 
 ### 📫 How to reach me
 - **djaithlomitha2002@gmail.com**
 
 ### ⚡ Fun fact
 - **I enjoy designing, optimizing, and querying databases 🤗**
+- **Love to mess with problems and think about solutions 😜**
 - **I hate JS 😅**
 
 ---
@@ -72,6 +73,14 @@
   <img src="https://cdn.simpleicons.org/circleci" height="48" alt="CircleCI" />
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" height="48" alt="Vercel Logo" />
   <img src="https://cdn.simpleicons.org/netdata" height="48" alt="Netdata" />
+</p>
+
+---
+
+### 📊 Data & Workflow Tools
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="48" alt="Apache Airflow" />
+  <img src="https://cdn.simpleicons.org/metabase" height="48" alt="Metabase" />
 </p>
 
 ---
